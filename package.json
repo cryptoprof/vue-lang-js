@@ -1,5 +1,5 @@
 {
-  "name": "@eli5/vue-lang-js",
+  "name": "@cryptoprof/vue-lang-js",
   "description": "Use lang.js inside Vue.js",
   "version": "1.3.1",
   "author": "Andre de Waard <andre@eli5.io>",
@@ -43,7 +43,7 @@
   ],
   "homepage": "https://www.eli5.io",
   "main": "dist/vue-lang-js.common.js",
-  "module": "dist/vue-lang-js.esm.js",
+  "module": "dist/vue-lang-js.min.js",
   "unpkg": "dist/vue-lang-js.js",
   "keywords": [
     "plugin",
